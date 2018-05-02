@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = 'VALUE 1';
+module.exports = 'VALUE 2';
